@@ -6,15 +6,6 @@
 
 A low-level implementation of core computer graphics algorithms rendering directly to Windows Device Context (HDC). Built for educational purposes to demonstrate how rasterization works beneath modern graphics APIs.
 
-
-##  Implemented Algorithms
-| Algorithm          | Type             | File Reference       |
-|--------------------|------------------|----------------------|
-| Bresenham's Line   | Line Drawing     | `src/line_algo.cpp`  |
-| Midpoint Circle    | Circle Drawing   | `src/circle_algo.cpp`|
-| Flood Fill         | Area Filling     | `src/fill_algo.cpp`  |
-| DDA                | Line Drawing     | `src/line_algo.cpp`  |
-
 ##  Getting Started
 ### Prerequisites
 - Windows OS
