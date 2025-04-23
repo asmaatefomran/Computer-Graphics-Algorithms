@@ -5,9 +5,3 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 A low-level implementation of core computer graphics algorithms rendering directly to Windows Device Context (HDC). Built for educational purposes to demonstrate how rasterization works beneath modern graphics APIs.
-
-##  Getting Started
-### Prerequisites
-- Windows OS
-- Visual Studio (or MinGW)
-- Basic Win32 API knowledge
